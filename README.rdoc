@@ -1,0 +1,5 @@
+= puppet-kmod module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-kmod/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-kmod/]
+
+This is the kmod module.
