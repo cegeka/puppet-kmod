@@ -3,3 +3,4 @@
 {<img src='https://jenkins-iac.cegeka.be/job/puppet-kmod/badge/icon' />}[https://jenkins-iac.cegeka.be/job/puppet-kmod/]
 
 This is the kmod module.
+
